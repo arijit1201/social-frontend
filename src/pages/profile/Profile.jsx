@@ -18,12 +18,12 @@ export default function Profile() {
                         </div>
                         <div className="profileInfo">
                             <h4 className="profileInfoName">Arijit Bruh</h4>
-                            <span className="profileInfoDesc">Hello World</span>
+                            <span className="profileInfoDesc">Hello World ahsdgauoisdhj causoifhdauoh oishaoiphca</span>
                         </div>
                     </div>
                     <div className="profileRightBottom">
                         <Feed/>
-                        <Rightbar/>
+                        <Rightbar profile/>
                     </div>
                 </div>
             </div>
